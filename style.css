@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #6a0dad;
+    font-weight: bold;
+}
+h1 {
+    color: #4b0082;
+}
+p, ul {
+    max-width: 800px;
+    line-height: 1.6;
+}
